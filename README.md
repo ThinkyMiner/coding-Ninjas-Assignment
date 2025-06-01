@@ -60,8 +60,7 @@ The application employs a microservices architecture, orchestrated to work in co
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/ThinkyMiner/coding-Ninjas-Assignment.git
 ```
 
 ### 2. Create and Configure `.env` File
