@@ -46,11 +46,8 @@ The application employs a microservices architecture, orchestrated to work in co
 ├── services/             # Microservice implementations
 ├── venv_3_11/            # Python virtual environment (example)
 ├── .env                  # Environment variables (ports, API keys - create this file)
-├── Dockerfile            # Docker configuration for building service images
-├── docker-compose.yml    # Docker Compose for orchestrating services
 ├── README.md             # This file
 ├── requirements.txt      # Python dependencies
-└── streamlit_app.py      # Main Streamlit application entry point (alternative)
 ```
 
 ## Setup and Installation
@@ -63,7 +60,8 @@ The application employs a microservices architecture, orchestrated to work in co
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/ThinkyMiner/coding-Ninjas-Assignment.git)
+git clone <your-repository-url>
+cd <repository-name>
 ```
 
 ### 2. Create and Configure `.env` File
