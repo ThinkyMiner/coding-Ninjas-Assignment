@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+openai-whisper
+gTTS
+pydub
+langchain
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+alpha-vantage
+langgraph
+beautifulsoup4
+lxml
+python-multipart
+# Add any other specific libraries you might need
